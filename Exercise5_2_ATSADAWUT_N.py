@@ -5,6 +5,4 @@ print("===========================")
 print("speed : ", speed)
 print("time : ", time)
 print("velocity : ", speed/time)
-print("===========================")peed :  300
-time :  4
-velocity :  75.0
+print("===========================")
