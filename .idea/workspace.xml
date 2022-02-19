@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1530a0e-ad30-41c9-bb41-e784067b1aa5" name="Changes" comment="" />
+    <list default="true" id="d1530a0e-ad30-41c9-bb41-e784067b1aa5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercise_8_ATSADAWUT_N.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +26,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Exercise5_2_ATSADAWUT_N">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\S89302\start-python\CP3-ATSADAWUT-NGERNNGOKNGARM" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Exercise_8_ATSADAWUT_N">
     <configuration name="Exercise4_ATSADAWUT_N" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP3-ATSADAWUT-NGERNNGOKNGARM" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,8 +95,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Exercise_8_ATSADAWUT_N" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CP3-ATSADAWUT-NGERNNGOKNGARM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise_8_ATSADAWUT_N.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercise_8_ATSADAWUT_N" />
         <item itemvalue="Python.Exercise5_2_ATSADAWUT_N" />
         <item itemvalue="Python.Exercise5_1_ATSADAWUT_N" />
         <item itemvalue="Python.Exercise4_ATSADAWUT_N" />
